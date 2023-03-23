@@ -1,7 +1,7 @@
 {
   "name": "node-context-storage",
   "version": "1.0.2",
-  "description": "",
+  "description": "Global context storage in node & express.js",
   "type": "module",
   "scripts": {
     "build": "tsc && tsc -p tsconfig.cjs.json",
